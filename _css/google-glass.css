@@ -1,0 +1,24 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    background-color: #606060;
+    font-size: 20pt;
+    color: white;
+    margin-bottom: 0px;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 13pt;
+    color: #606060;
+    margin-bottom: 0px;
+    margin-top: 5px;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12pt;
+}
